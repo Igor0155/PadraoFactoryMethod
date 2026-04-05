@@ -1,0 +1,5 @@
+factorymethod\IPagamento.class
+factorymethod\PagamentoFactory.class
+factorymethod\PagamentoPix.class
+factorymethod\PagamentoCartao.class
+factorymethod\PagamentoDinheiro.class
